@@ -1,0 +1,81 @@
+body {
+  background-color: #BEF2F2;
+  font-family: Inter, Roboto, sans-serif;
+  margin: 0;
+}
+
+header {
+  text-align: center;
+  background-color: #FBFC95;
+  display: block;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+#title {
+  font-size: 80px;
+  margin-top: -8px;
+  margin-bottom: 0;
+  padding-top: 20px;
+  font-weight: 400;
+}
+
+#subhead {
+  font-size: 40px;
+  padding-bottom: 35px;
+  margin-top: 15px;
+  margin-bottom: 0;
+  font-weight: 400;
+}
+
+aside {
+  float: left;
+  background-color: #F98CF5;
+  margin-left: 150px;
+  line-height: 1.5;
+  padding-right: 20px;
+  font-size: 20px;
+  padding-bottom: 399px;
+}
+
+ol {
+  padding-left: 30px;
+  margin-top: 5px;
+}
+
+#todo {
+  font-size: 30px;
+  margin-top: 5px;
+  margin-bottom: 0;
+  padding-left: 7px;
+}
+
+section {
+  background-color: #8FF98C;
+  margin-left: 387px;
+  margin-right: 150px;
+  display: block;
+  padding: 50px;
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+#first {
+  margin-top: 0;
+}
+
+#second {
+  margin: 20px 0;
+}
+
+span {
+  color: white;
+}
+
+figure {
+  margin-left: 0;
+}
+
+figcaption {
+  margin-top: 5px;
+}
